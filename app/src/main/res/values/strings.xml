@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SantanderReply</string>
+    <string name="saldo_dispon_vel">Saldo Disponível</string>
+    <string name="saldo">Saldo disponível</string>
+</resources>
